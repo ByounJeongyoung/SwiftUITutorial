@@ -11,6 +11,7 @@
 //------------------------    I Learned..   -----------------------------
 
 //Text
+//
 
 //.font(.largeTitle)    => 직관적이다 LargeTitle >  title > Headline
 //.fontWeight(.medium)  =>      inheritet  >  black > semibold > light
@@ -27,6 +28,7 @@ import SwiftUI
 
 struct TextBootCamp: View {
     var body: some View {
+    
         Text("감사합니다감사합니다감사합니다감사합니다감사합니다감사합니다감사합니다감사합니다합니다감사합니다감사합니다감사합니다감사합니다합니다감사합니다감사합니다감사합니다감사합니다v합니다감사합니다감사합니다감사합니다감사합니다v감사합니다")
             //.font(.largeTitle) //직관적이므로 이것이 더 나음 특정상황시 size 직접입력
            // .fontWeight(.medium)
